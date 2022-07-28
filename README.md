@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DogDad65
 - 👀 I’m interested in My two JR Terriers, Traveling, Good Food & Wine.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
-- 💞️ I’m looking to collaborate on Too early to tell.
+- 💞️ I’m looking to collaborate on, It's Too early to tell.
 - 📫 How to reach me ...
 
 <!---
